@@ -32,7 +32,7 @@ A simple SwiftUI app to track your reading progress, built to showcase **SwiftDa
 ---
 
 ## 📷 Screenshots
-> *(Add screenshots of the book list, detail view, and add book view here)*
+> *(Screen shots coming up)*
 
 ---
 
@@ -44,8 +44,8 @@ git clone https://github.com/YOUR_USERNAME/BookShelf.git
 cd BookShelf
 open BookShelf.xcodeproj
 ```
-
-##📌 Notes
+---
+## 📌 Notes
 This app was built to demonstrate:
 SwiftData for persistence
 Modern SwiftUI patterns
