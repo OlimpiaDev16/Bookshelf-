@@ -47,7 +47,8 @@ open BookShelf.xcodeproj
 ---
 ## 📌 Notes
 This app was built to demonstrate:
-SwiftData for persistence
-Modern SwiftUI patterns
-Simple, clean architecture
-User-friendly UI design
+  - SwiftData for persistence.
+  - Modern SwiftUI patterns.
+  - Simple, clean architecture.
+  - User-friendly UI design
+
